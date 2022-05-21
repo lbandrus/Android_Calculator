@@ -1,30 +1,25 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+I made a simple app to dip my toes into mobile Development.
 
-{Provide a description of your app.  Describe how to use the app.}
+My app is a simple calculator app. 
 
-{Describe your purpose for creating this app.}
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the app running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/m3wrO0O6k4I)
 
 # Development Environment
 
-{Describe the tools that you used to develop the app}
+I used Java and andriod studio to create my app.
 
-{Describe the programming language that you used and any libraries.}
+I used the math.mxparser library to evaluate my math expressions.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Practical Coding-YouTube Channel](https://www.youtube.com/watch?v=B5b-7uDtUp4)
+* [W3schools]([http://url.link.goes.here](https://www.w3schools.com/java/))
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Fix the justification of the TextView of the answer
+* Add a scientific calculator
+* Add better graphics
