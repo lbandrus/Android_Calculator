@@ -5,7 +5,7 @@ I made a simple app to dip my toes into mobile Development.
 My app is a simple calculator app. 
 
 
-[Software Demo Video]([https://youtu.be/qBvPyKwC9vI]))
+[Software Demo Video]([https://youtu.be/qBvPyKwC9vI])
 
 # Development Environment
 
